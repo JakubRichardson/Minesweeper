@@ -4,17 +4,33 @@
 
 A rendition of the classic Minesweeper game. The aim of the game is to clear out the board and not hit any mines in the process.
 
-The project uses a basic server built in express to access the webpage. A server was used as the project contains a JS module and access to it is blocked by the browsers CORS policy.
+The project uses a basic server built in express to access the webpage. A server was used as the project contains a JS module and access to it is blocked by the browsers CORS policy. This layout layout also makes sense if you wanted to serve this page on other servers.
 
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
+- [🖼️ Project Images <a name = "project_images"></a>](#-project-images-)
 - [🚀 Future Scope <a name = "future_scope"></a>](#-future-scope-)
 - [🏁 Getting Started <a name = "getting_started"></a>](#-getting-started-)
   - [Prerequisites <a name = "prerequisites"></a>](#prerequisites-)
   - [Running the project <a name = "running"></a>](#running-the-project-)
 - [⛏️ Built With <a name = "tech_stack"></a>](#️-built-with-)
 - [✍️ Authors <a name = "authors"></a>](#️-authors-)
+
+## 🖼️ Project Images <a name = "project_images"></a>
+
+<p align="center">
+  <img src="./images/minesweeper1.PNG" alt="Minesweeper image 1" width="600"/>
+</p>
+
+<details>
+<summary>See more Images</summary>
+<br/>
+<p align="center">
+  <img src="./images/minesweeper2.PNG" alt="Minesweeper image 2" width="600"/>
+  <img src="./images/minesweeper3.PNG" alt="Minesweeper image 3" width="600"/>
+</p>
+</details>
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
