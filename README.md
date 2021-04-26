@@ -37,7 +37,7 @@ The project uses a basic server built in express to access the webpage. A server
 I may decide to add some of the following features in the future:
 - 🔲Variable board size
 - 🎨Page color schemes
-- 🤖AI to play against
+- 💪Difficulty levels
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
