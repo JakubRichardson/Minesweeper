@@ -15,7 +15,7 @@ The project uses a basic server built in express to access the webpage. A server
   - [Prerequisites <a name = "prerequisites"></a>](#prerequisites-)
   - [Running the project <a name = "running"></a>](#running-the-project-)
 - [⛏️ Built With <a name = "tech_stack"></a>](#️-built-with-)
-- [✍️ Authors <a name = "authors"></a>](#️-authors-)
+- [✍️ Authors <a name = "author"></a>](#️-author-)
 
 ## 🖼️ Project Images <a name = "project_images"></a>
 
@@ -24,7 +24,7 @@ The project uses a basic server built in express to access the webpage. A server
 </p>
 
 <details>
-<summary>See more Images</summary>
+<summary>See More Images</summary>
 <br/>
 <p align="center">
   <img src="./images/minesweeper2.PNG" alt="Minesweeper image 2" width="600"/>
