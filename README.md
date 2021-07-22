@@ -4,7 +4,7 @@
 
 A rendition of the classic Minesweeper game. The aim of the game is to clear out the board and not hit any mines in the process.
 
-The project uses a basic server built in express to access the webpage. A server was used as the project contains a JS module and access to it is blocked by the browsers CORS policy. This layout layout also makes sense if you wanted to serve this page on other servers.
+The project uses a basic server built in express to access the webpage. A server was used as the project contains a JS module and access to it is blocked by the browsers CORS policy. This layout layout also makes sense if you wanted to serve this page on other servers. Project based on Web Dev Simplified youtube tutorial.
 
 ## 📝 Table of Contents
 
