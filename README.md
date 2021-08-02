@@ -67,7 +67,7 @@ If you type anything at the end of this url you will be redirected to the websit
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
-- [JavaScript](https://python.org/) - Language
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
 - [NodeJS](https://nodejs.org/en/) - JS runtime envoronment
 - [ExpressJS](https://expressjs.com/) - Server
 - [EJS](https://ejs.co/) - Javascript templating engine
