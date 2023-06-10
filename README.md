@@ -1,23 +1,10 @@
-<p>
-  <h2 align="center">Minesweeper</h2>
-</p>
+# Minesweeper
 
 A rendition of the classic Minesweeper game. The aim of the game is to clear out the board and not hit any mines in the process.
 
-The project uses a basic server built in express to access the webpage. A server was used as the project contains a JS module and access to it is blocked by the browsers CORS policy. This layout also makes sense if you wanted to serve this page on other servers. Project based on Web Dev Simplified youtube tutorial.
+The project uses a basic server built in express to access the webpage. A server was used as the project contains a JS module and access to it is blocked by the browsers CORS policy. This layout also makes sense if you wanted to serve this page on other servers.
 
-## 📝 Table of Contents
-
-- [📝 Table of Contents](#-table-of-contents)
-- [🖼️ Project Images <a name = "project_images"></a>](#-project-images-)
-- [🚀 Future Scope <a name = "future_scope"></a>](#-future-scope-)
-- [🏁 Getting Started <a name = "getting_started"></a>](#-getting-started-)
-  - [Prerequisites <a name = "prerequisites"></a>](#prerequisites-)
-  - [Running the project <a name = "running"></a>](#running-the-project-)
-- [⛏️ Built With <a name = "tech_stack"></a>](#️-built-with-)
-- [✍️ Authors <a name = "author"></a>](#️-author-)
-
-## 🖼️ Project Images <a name = "project_images"></a>
+## 🖼️ Project Images
 
 <p align="center">
   <img src="./images/minesweeper1.PNG" alt="Minesweeper image 1" width="600"/>
@@ -32,18 +19,18 @@ The project uses a basic server built in express to access the webpage. A server
 </p>
 </details>
 
-## 🚀 Future Scope <a name = "future_scope"></a>
+## 🚀 Future Scope
 
 I may decide to add some of the following features in the future:
 - 🔲Variable board size
 - 🎨Page color schemes
 - 💪Difficulty levels
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites <a name = "prerequisites"></a>
+### Prerequisites
 
 To be able to run the website, first you need to install the required modules with:
 
@@ -51,7 +38,7 @@ To be able to run the website, first you need to install the required modules wi
 npm install 
 ```
 
-### Running the project <a name = "running"></a>
+### Running the project
 
 To run the website you need to run the server using node:
 
@@ -65,7 +52,7 @@ http://localhost:3000/
 ```
 If you type anything at the end of this url you will be redirected to the website by the server
 
-## ⛏️ Built With <a name = "tech_stack"></a>
+## ⛏️ Built With
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
 - [NodeJS](https://nodejs.org/en/) - JS runtime environment
@@ -73,6 +60,6 @@ If you type anything at the end of this url you will be redirected to the websit
 - [EJS](https://ejs.co/) - Javascript templating engine
 - [Bootstrap](https://getbootstrap.com/) - Button css classes used in styles.css
 
-## ✍️ Author <a name = "author"></a>
+## ✍️ Author
 
 - [JakubRichardson](https://github.com/JakubRichardson) 
