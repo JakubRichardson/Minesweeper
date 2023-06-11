@@ -57,7 +57,6 @@ If you type anything at the end of this url you will be redirected to the websit
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
 - [NodeJS](https://nodejs.org/en/) - JS runtime environment
 - [ExpressJS](https://expressjs.com/) - Server
-- [EJS](https://ejs.co/) - Javascript Templating engine
 - [Bootstrap](https://getbootstrap.com/) - Button CSS classes used in styles.css
 
 ## ✍️ Author
