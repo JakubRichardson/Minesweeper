@@ -82,7 +82,7 @@ function stopProp(e) {
 function resetGame() {
     boardDiv.innerHTML = "";
     initialise();
-    messageText.firstChild.textContent = "Mines remaining:";
+    messageText.firstChild.textContent = "Mines remaining: ";
     boardDiv.removeEventListener("click", stopProp, true);
     boardDiv.removeEventListener("contextmenu", stopProp, true);
 }
